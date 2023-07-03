@@ -1,4 +1,5 @@
 /* DJ Trost | CSD320 | Assignment 1 | 28 May 2023
+
 Shows the importance of using floats instead of integers when working with calculations.
 Java truncates division when using integers so you won't get the most accurate computations. 
 */
