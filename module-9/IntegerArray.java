@@ -9,10 +9,10 @@ public class IntegerArray {
         intArray = getArray(intArray);
 
         // Print statements for each method
-        System.out.printf("\nHighest Value: %d",highestValue(intArray));
-        System.out.printf("\nLowest Value: %d",lowestValue(intArray));
-        System.out.printf("\nSum of Values: %d",sumValue(intArray));
-        System.out.printf("\nAverage of Values: %d",averageValue(intArray));
+        System.out.printf("\nHighest Value: \t%d",highestValue(intArray));
+        System.out.printf("\nLowest Value: \t%d",lowestValue(intArray));
+        System.out.printf("\nSum: \t\t%d",sumValue(intArray));
+        System.out.printf("\nAverage: \t%d",averageValue(intArray));
         System.out.println("\n");
     }
 
